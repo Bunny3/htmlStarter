@@ -1,0 +1,21 @@
+/*fontfamily*/
+p{
+	font-family: 'Dosis';
+	font-weight: lighter;
+}
+h1{
+	font-family:'Mina';
+}
+h1{
+	font-size: 100px;
+	text-align: right;
+}
+p{
+	font-size: 50px;
+}
+span{
+	font-size: 2.0em;
+}
+p{
+	text-align: center;
+}
